@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1772332633
+icon.svg::CompressedTexture2D::5385319812605386052::1772254465::1772332652::1::::<><><>0<>0<>81d5e89ea2c3919a5faf77cf8691f907<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1772332616
+::res://assets/images/::1772332611
+::res://assets/images/player/::1772254735
+Idle (32x32).png::CompressedTexture2D::4725948132770997758::1772254679::1772332652::1::::<><><>0<>0<>692e76142ea82237325b76d2cfc9fde8<>res://.godot/imported/Idle (32x32).png-80b5829e967944c7bbf5958bc74c9b27.ctex::
+Jump (32x32).png::CompressedTexture2D::8168260580540261373::1772254692::1772332652::1::::<><><>0<>0<>7b85ea9a772cb2e6be878beffe29b238<>res://.godot/imported/Jump (32x32).png-fc3f0e4aba12c68de7acb914dfbd3eda.ctex::
+Run (32x32).png::CompressedTexture2D::3528207813384595000::1772254682::1772332652::1::::<><><>0<>0<>199aa990b3c75ad58448f4a58fc92923<>res://.godot/imported/Run (32x32).png-5c6047784ed0240cec5ef5a0fef7b485.ctex::
+::res://assets/images/tilemap/::1772316544
+Terrain (16x16).png::CompressedTexture2D::3012613171570299601::1772316536::1772332652::1::::<><><>0<>0<>3d2b9bbb8bda99758ce7493d412d2e74<>res://.godot/imported/Terrain (16x16).png-40394fc07aafe3f4a9a78aba21f498f9.ctex::
+::res://scenes/::1772326966
+main.tscn::PackedScene::2287636794278754778::1772322480::0::1::::<><><>0<>0<><>::uid://cmobw1ls0xt0b::::res://scenes/levels/level2.tscn
+player.tscn::PackedScene::4942149086496992774::1772326966::0::1::::<><><>0<>0<><>::uid://cswjphv5s0n44::::res://scripts/player.gd<>uid://b8ljw7vdchln7::::res://assets/images/player/Idle (32x32).png<>uid://dom1b8p6rc83b::::res://assets/images/player/Jump (32x32).png<>uid://bqjdcjxtt00ym::::res://assets/images/player/Run (32x32).png
+::res://scenes/levels/::1772332234
+check_point.gd::GDScript::4179934592534031411::1772332234::0::1::::<>Area2D<><>0<>0<><>::
+level1.tscn::PackedScene::7470053581089129741::1772321424::0::1::::<><><>0<>0<><>::uid://bi6lkfnspnd8l::::res://assets/images/tilemap/Terrain (16x16).png<>uid://ccoaqdioidrv7::::res://scenes/player.tscn
+level2.tscn::PackedScene::5644110167510226919::1772332089::0::1::::<><><>0<>0<><>::uid://bi6lkfnspnd8l::::res://assets/images/tilemap/Terrain (16x16).png<>uid://ccoaqdioidrv7::::res://scenes/player.tscn<>uid://b0s16ak63cxbf::::res://scenes/levels/check_point.gd
+::res://scripts/::1772332331
+player.gd::GDScript::6082230504796030867::1772332331::0::1::::<>CharacterBody2D<><>0<>0<><>::
